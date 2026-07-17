@@ -1,0 +1,356 @@
+{
+  "O": {
+    "name": "Water",
+    "iupac": "oxidane"
+  },
+  "[H][H]": {
+    "name": "Hydrogen",
+    "aliases": [
+      "Hydrogen gas"
+    ]
+  },
+  "O=O": {
+    "name": "Oxygen",
+    "aliases": [
+      "Oxygen gas"
+    ]
+  },
+  "N#N": {
+    "name": "Nitrogen",
+    "aliases": [
+      "Nitrogen gas"
+    ]
+  },
+  "ClCl": {
+    "name": "Chlorine",
+    "aliases": [
+      "Chlorine gas"
+    ]
+  },
+  "Cl": {
+    "name": "Hydrochloric acid",
+    "iupac": "hydrogen chloride"
+  },
+  "O=C=O": {
+    "name": "Carbon dioxide"
+  },
+  "[C-]#[O+]": {
+    "name": "Carbon monoxide"
+  },
+  "N": {
+    "name": "Ammonia",
+    "iupac": "azane"
+  },
+  "C": {
+    "name": "Methane"
+  },
+  "CC": {
+    "name": "Ethane"
+  },
+  "CCC": {
+    "name": "Propane"
+  },
+  "CCCC": {
+    "name": "Butane"
+  },
+  "CCCCC": {
+    "name": "Pentane"
+  },
+  "CCCCCC": {
+    "name": "Hexane"
+  },
+  "CC(C)C": {
+    "name": "Isobutane",
+    "iupac": "2-methylpropane"
+  },
+  "C=C": {
+    "name": "Ethylene",
+    "iupac": "ethene"
+  },
+  "C#C": {
+    "name": "Acetylene",
+    "iupac": "ethyne"
+  },
+  "CC=C": {
+    "name": "Propene"
+  },
+  "CO": {
+    "name": "Methanol"
+  },
+  "CCO": {
+    "name": "Ethanol",
+    "blurb": "The alcohol in alcoholic drinks."
+  },
+  "CCCO": {
+    "name": "Propan-1-ol"
+  },
+  "CC(C)O": {
+    "name": "Isopropanol",
+    "iupac": "propan-2-ol"
+  },
+  "CCCCO": {
+    "name": "Butan-1-ol"
+  },
+  "OCCO": {
+    "name": "Ethylene glycol",
+    "iupac": "ethane-1,2-diol"
+  },
+  "OCC(CO)O": {
+    "name": "Glycerol",
+    "iupac": "propane-1,2,3-triol"
+  },
+  "C=O": {
+    "name": "Formaldehyde",
+    "iupac": "methanal"
+  },
+  "CC=O": {
+    "name": "Acetaldehyde",
+    "iupac": "ethanal"
+  },
+  "CC(C)=O": {
+    "name": "Acetone",
+    "iupac": "propan-2-one"
+  },
+  "OC=O": {
+    "name": "Formic acid",
+    "iupac": "methanoic acid"
+  },
+  "CC(O)=O": {
+    "name": "Acetic acid",
+    "iupac": "ethanoic acid"
+  },
+  "CCC(O)=O": {
+    "name": "Propanoic acid"
+  },
+  "CCCC(O)=O": {
+    "name": "Butanoic acid"
+  },
+  "CN": {
+    "name": "Methylamine",
+    "iupac": "methanamine"
+  },
+  "CCN": {
+    "name": "Ethylamine",
+    "iupac": "ethanamine"
+  },
+  "CNC": {
+    "name": "Dimethylamine"
+  },
+  "CN(C)C": {
+    "name": "Trimethylamine"
+  },
+  "NC(N)=O": {
+    "name": "Urea",
+    "iupac": "carbamide"
+  },
+  "NC=O": {
+    "name": "Formamide"
+  },
+  "CC(N)=O": {
+    "name": "Acetamide"
+  },
+  "[Na+].[Cl-]": {
+    "name": "Sodium chloride",
+    "aliases": [
+      "Table salt"
+    ]
+  },
+  "[OH-].[Na+]": {
+    "name": "Sodium hydroxide",
+    "aliases": [
+      "Lye",
+      "Caustic soda"
+    ]
+  },
+  "[NH4+].[Cl-]": {
+    "name": "Ammonium chloride"
+  },
+  "[O-]C(O)=O.[Na+]": {
+    "name": "Sodium bicarbonate",
+    "aliases": [
+      "Baking soda"
+    ]
+  },
+  "[O-]C([O-])=O.[Na+].[Na+]": {
+    "name": "Sodium carbonate",
+    "aliases": [
+      "Washing soda"
+    ]
+  },
+  "[O-]Cl.[Na+]": {
+    "name": "Sodium hypochlorite",
+    "aliases": [
+      "Bleach (active ingredient)"
+    ]
+  },
+  "[O-][N+](O)=O": {
+    "name": "Nitric acid"
+  },
+  "[N-]=[N+]=O": {
+    "name": "Nitrous oxide",
+    "aliases": [
+      "Laughing gas"
+    ]
+  },
+  "ON=O": {
+    "name": "Nitrous acid"
+  },
+  "OO": {
+    "name": "Hydrogen peroxide"
+  },
+  "C#N": {
+    "name": "Hydrogen cyanide"
+  },
+  "ClCCl": {
+    "name": "Dichloromethane",
+    "aliases": [
+      "Methylene chloride"
+    ]
+  },
+  "ClC(Cl)Cl": {
+    "name": "Chloroform",
+    "iupac": "trichloromethane"
+  },
+  "ClC(Cl)(Cl)Cl": {
+    "name": "Carbon tetrachloride",
+    "iupac": "tetrachloromethane"
+  },
+  "CCl": {
+    "name": "Chloromethane"
+  },
+  "C=CCl": {
+    "name": "Vinyl chloride",
+    "iupac": "chloroethene"
+  },
+  "CCCl": {
+    "name": "Chloroethane"
+  },
+  "c1ccccc1": {
+    "name": "Benzene"
+  },
+  "Cc1ccccc1": {
+    "name": "Toluene",
+    "iupac": "methylbenzene"
+  },
+  "Oc1ccccc1": {
+    "name": "Phenol"
+  },
+  "Nc1ccccc1": {
+    "name": "Aniline"
+  },
+  "OC(c1ccccc1)=O": {
+    "name": "Benzoic acid"
+  },
+  "NCC(O)=O": {
+    "name": "Glycine",
+    "aliases": [
+      "Aminoacetic acid"
+    ]
+  },
+  "CC(C(O)=O)N": {
+    "name": "Alanine"
+  },
+  "CC#N": {
+    "name": "Acetonitrile"
+  },
+  "CCOCC": {
+    "name": "Diethyl ether"
+  },
+  "COC": {
+    "name": "Dimethyl ether"
+  },
+  "C1CC1": {
+    "name": "Cyclopropane"
+  },
+  "C1CCCCC1": {
+    "name": "Cyclohexane"
+  },
+  "OC1CCCCC1": {
+    "name": "Cyclohexanol"
+  },
+  "CCC(C)O": {
+    "name": "Butan-2-ol"
+  },
+  "CC(C)(C)O": {
+    "name": "Tert-butanol",
+    "iupac": "2-methylpropan-2-ol"
+  },
+  "CCC=O": {
+    "name": "Propanal"
+  },
+  "CCCC=O": {
+    "name": "Butanal"
+  },
+  "CC(OC)=O": {
+    "name": "Methyl acetate"
+  },
+  "CCOC(C)=O": {
+    "name": "Ethyl acetate"
+  },
+  "CC(OC(C)=O)=O": {
+    "name": "Acetic anhydride"
+  },
+  "NCCN": {
+    "name": "Ethylenediamine",
+    "iupac": "ethane-1,2-diamine"
+  },
+  "c1ccncc1": {
+    "name": "Pyridine"
+  },
+  "c1c[o]cc1": {
+    "name": "Furan"
+  },
+  "CC(C)N": {
+    "name": "Isopropylamine",
+    "iupac": "propan-2-amine"
+  },
+  "OC(CC(O)=O)=O": {
+    "name": "Malonic acid",
+    "iupac": "propanedioic acid"
+  },
+  "OC(C(O)=O)=O": {
+    "name": "Oxalic acid",
+    "iupac": "ethanedioic acid"
+  },
+  "OC(CCC(O)=O)=O": {
+    "name": "Succinic acid",
+    "iupac": "butanedioic acid"
+  },
+  "CC(C(O)=O)O": {
+    "name": "Lactic acid",
+    "iupac": "2-hydroxypropanoic acid"
+  },
+  "CC(C(O)=O)=O": {
+    "name": "Pyruvic acid",
+    "iupac": "2-oxopropanoic acid"
+  },
+  "OC(CC(O)=O)(CC(O)=O)C(O)=O": {
+    "name": "Citric acid"
+  },
+  "C[N+]([O-])=O": {
+    "name": "Nitromethane"
+  },
+  "CC(Oc1ccccc1C(O)=O)=O": {
+    "name": "Aspirin",
+    "iupac": "acetylsalicylic acid"
+  },
+  "C[n]1c(C(N(C)C(N2C)=O)=O)c2nc1": {
+    "name": "Caffeine"
+  },
+  "C1OC1": {
+    "name": "Ethylene oxide",
+    "iupac": "oxirane"
+  },
+  "C1COCC1": {
+    "name": "Tetrahydrofuran"
+  },
+  "c1ccc(cccc2)c2c1": {
+    "name": "Naphthalene"
+  },
+  "C=Cc1ccccc1": {
+    "name": "Styrene"
+  },
+  "NC(Cc1ccccc1)C(O)=O": {
+    "name": "Phenylalanine"
+  }
+}
